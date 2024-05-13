@@ -2,6 +2,8 @@
 
 ### This project is part of DataDNA May 2024 challenge.
 
+## Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZDQzODc4YmUtZTI1Yi00YWQ1LTg0ZDUtMWVlZDZlYzhkZDk3IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 ## Introduction:
 In today’s world, businesses of all sizes rely heavily on technology for daily operations. Technical support plays a crucial role in maintaining these systems efficiently. Consider the following questions to guide your exploration, centered around Technical Support Centre Key Performance Indicators (KPIs):
 ### Ticket Volume Trends:
